@@ -2,7 +2,7 @@
 
 ### Goal
 
-The goal of the project is to select the best team possible for the Tour de France. This team selection is based on results of riders earlier in they year. Using a Linear Programming approach the best possible team selection is made based on input parameters of the user. The data is either provided by the Tourpoolcommission (rider selection sheet) or webscraped from ProCyclingStats.com (latest results of riders).
+The goal of the project is to select the best team possible for the Tour de France. This team selection is based on results of riders earlier in the year. Using a Linear Programming approach the best possible team selection is made based on input parameters of the user. The data is either provided by the Tourpoolcommission (rider selection sheet) or webscraped from ProCyclingStats.com (rider results).
 
 ### About
 
