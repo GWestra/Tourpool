@@ -14,17 +14,4 @@ The use can define a couple parameters in order to influence the team selection,
 |`metric`|Metric that is used for optimisation.|`sum`|
 |`n_selection`|Number of riders selected for the team.|`15`|
 |`budget`|Available budget for the team.|`100`|
-|`month_multipliers`|Multiplier for points earned in specific months. This is a list containing all 12 months in a year with the corresponding multiplier.|`{
-    'January': 1,
-    'February': 1,
-    'March': 1,
-    'April': 1,
-    'May': 2,
-    'June': 2,
-    'July': 0,
-    'August': 0,
-    'September': 0,
-    'October': 0,
-    'November': 0,
-    'December': 0,
-}`|
+|`month_multipliers`|Multiplier for points earned in specific months. This is a list containing all 12 months in a year with the corresponding multiplier.|`{'January': 1,'February': 1,'March': 1,'April': 1,'May': 2,'June': 2,'July': 0,'August': 0,'September': 0,'October': 0,'November': 0,'December': 0,}`|
